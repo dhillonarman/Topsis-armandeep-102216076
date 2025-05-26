@@ -1,6 +1,6 @@
 ### **README**
 
-# **TOPSIS Analysis in Jupyter Notebook**
+# **TOPSIS Analysis**
 
 This README provides step-by-step instructions on how to use the TOPSIS package in a Jupyter Notebook.
 
